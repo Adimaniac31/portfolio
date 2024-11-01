@@ -1,0 +1,19 @@
+[ 
+    { "name" : "HTML", "image": "src/assets/html.png"},
+    { "name" : "CSS", "image": "src/assets/css.png"},
+    { "name": "JavaScript", "image": "src/assets/javascript.png" },
+    { "name" : "MongoDB", "image": "src/assets/mongodb.png"},
+    { "name" : "MySQL", "image": "src/assets/mysql.png"},
+    { "name": "React", "image": "src/assets/react.png" },
+    { "name": "Node.js", "image": "src/assets/nodejs.png" },
+    { "name": "Tailwind CSS", "image": "src/assets/tailwind.png" },
+    { "name" : "SCSS", "image": "src/assets/scss.png"},
+    { "name" : "DSA", "image": "src/assets/dsa.jpg"},
+    { "name" : "OOPs", "image": "src/assets/oops.png"},
+    { "name" : "cpp", "image": "src/assets/cpp.jpg"},
+    { "name" : "AWS", "image": "src/assets/aws.jpg"},
+    { "name": "Docker", "image": "src/assets/docker.png" },
+    { "name": "Linux", "image": "src/assets/linux.png" },
+    { "name": "Git", "image": "src/assets/git.jpg" }
+]
+  

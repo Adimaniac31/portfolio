@@ -1,0 +1,39 @@
+[
+    {
+      "title": "SkillPlanner Website",
+      "description": "A website to learn skills based on my learning techniques i.e. creating plans dividing the tasks as daily task,week tasks and then I operated CRUD operations over them.I used AWS EC2 service,Docker to deploy the backend.",
+      "githubUrl": "https://github.com/Adimaniac31/WorkManagement",
+      "deployedUrl": "https://work-management-fawn.vercel.app/",
+      "techStack": ["React", "Tailwind CSS", "NodeJS", "ReduxToolkit", "MySQL","ExpressJS","jwt","Sequelize","Docker","AWS"]
+    },
+    {
+        "title": "RealEstate Website",
+        "description": "A complete fullstack MERN project which provides a platform to sell,buy,search real estate and has authentication to view personal profile.",
+        "githubUrl": "https://github.com/Adimaniac31/Real-Estate-Project",
+        "deployedUrl": "real-estate-project-8x2m.onrender.com",
+        "techStack": ["React", "Tailwind CSS", "NodeJS", "ReduxToolkit", "MongoDB","ExpressJS","jwt"],
+        "videoUrl": "https://www.youtube.com/embed/7MRnCWVjde8"
+      },
+      {
+        "title": "Article Analyser",
+        "description": "Article Analyser is a web application that allows users to upload articles for analysis, providing insights and suggestions for improvement. The application is built using React for the frontend and Node.js with Express for the backend, utilizing a MySQL database for data storage.",
+        "githubUrl": "https://github.com/Adimaniac31/GPTSolvathon",
+        "techStack": ["ReactJS", "MySQL", "GPT-4o model", "Tailwind CSS"],
+        "videoUrl": "https://www.youtube.com/embed/HoEX5dsiB6s"
+      },
+      {
+        "title":"MentalHealth Wellness Site",
+        "description": "Created a website to ensure and diagnose your mental health.",
+        "githubUrl": "https://github.com/Adimaniac31/MentalWellness",
+        "techStack": ["React", "Tailwind CSS", "NodeJS", "FlaskAPI","Hugging Face API"],
+        "videoUrl": "https://www.youtube.com/embed/cZnyG7nW3Kg"
+      },
+      {
+        "title": "Prakriti Website",
+        "description": "Created a chatbot which predicts prakriti of a human.",
+        "techStack": ["ReactJS","Fast API","Hugging Face","Trained Models"],
+        "videoUrl": "https://www.youtube.com/embed/4oFfCZVT80w"
+      }
+
+  ]
+  
