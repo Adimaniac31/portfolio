@@ -4,7 +4,8 @@
       "description": "A website to learn skills based on my learning techniques i.e. creating plans dividing the tasks as daily task,week tasks and then I operated CRUD operations over them.I used AWS EC2 service,Docker to deploy the backend.",
       "githubUrl": "https://github.com/Adimaniac31/WorkManagement",
       "deployedUrl": "https://work-management-fawn.vercel.app/",
-      "techStack": ["React", "Tailwind CSS", "NodeJS", "ReduxToolkit", "MySQL","ExpressJS","jwt","Sequelize","Docker","AWS"]
+      "techStack": ["React", "Tailwind CSS", "NodeJS", "ReduxToolkit", "MySQL","ExpressJS","jwt","Sequelize","Docker","AWS"],
+      "videoUrl": "https://www.youtube.com/9hpqTqnBUEo"
     },
     {
         "title": "RealEstate Website",
@@ -32,7 +33,8 @@
         "title": "Prakriti Website",
         "description": "Created a chatbot which predicts prakriti of a human.",
         "techStack": ["ReactJS","Fast API","Hugging Face","Trained Models"],
-        "videoUrl": "https://www.youtube.com/embed/4oFfCZVT80w"
+        "videoUrl": "https://www.youtube.com/embed/4oFfCZVT80w",
+        "githubUrl": "https://github.com/Adimaniac31/SIH"
       }
 
   ]
