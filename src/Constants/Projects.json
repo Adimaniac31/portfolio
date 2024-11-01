@@ -5,7 +5,7 @@
       "githubUrl": "https://github.com/Adimaniac31/WorkManagement",
       "deployedUrl": "https://work-management-fawn.vercel.app/",
       "techStack": ["React", "Tailwind CSS", "NodeJS", "ReduxToolkit", "MySQL","ExpressJS","jwt","Sequelize","Docker","AWS"],
-      "videoUrl": "https://www.youtube.com/9hpqTqnBUEo"
+      "videoUrl": "https://www.youtube.com/embed/9hpqTqnBUEo"
     },
     {
         "title": "RealEstate Website",
