@@ -10,7 +10,7 @@ const Skills = () => {
         {skillsData.map((skill, index) => (
           <div key={index} className="flex flex-col items-center">
             <img
-              src={skill.image}
+              src={`${import.meta.env.BASE_URL}${skill.image}`}
               alt={skill.name}
               className="h-16 w-16 sm:h-24 sm:w-24 object-contain mb-2"
             />
