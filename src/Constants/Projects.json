@@ -8,6 +8,14 @@
       "videoUrl": "https://www.youtube.com/embed/9hpqTqnBUEo"
     },
     {
+      "title": "Form Builder",
+      "description": "A web application that allows users to create custom forms, submit data, and view submission statistics. Users can manage their forms, view submissions, and export the data in CSV format. The application simplifies login using only a username, without authentication mechanisms.",
+      "githubUrl": "https://github.com/Adimaniac31/Form-Builder",
+      "deployedUrl": "",
+      "techStack": ["React", "TypeScript", "Node.js", "Express", "MySQL", "Sequelize", "Tailwind CSS", "react-dnd", "file-saver", "Docker"],
+      "videoUrl": "https://drive.google.com/file/d/1joTBlSrJ7e7xB6X9hUq7JV8dGWTb0qgn/view?usp=sharing"
+    },
+    {
         "title": "RealEstate Website",
         "description": "A complete fullstack MERN project which provides a platform to sell,buy,search real estate and has authentication to view personal profile.",
         "githubUrl": "https://github.com/Adimaniac31/Real-Estate-Project",
